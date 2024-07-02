@@ -246,6 +246,14 @@ ClassGraph is an uber-fast parallelized classpath scanner and module scanner for
 languages.
 
 
+#### [➔ Cloning](https://github.com/kostaskougios/cloning)
+
+The cloning library is a small, open source (Apache licensed) Java library which deep-clones objects. The objects don't
+have to implement the Cloneable interface. Effectively, this library can clone ANY Java object. It can be used i.e. in
+cache implementations if you don't want the cached object to be modified or whenever you want to create a deep copy of
+objects.
+
+
 #### [➔ Create-DMG](https://github.com/create-dmg/create-dmg)
 
 A shell script to build fancy DMGs.
