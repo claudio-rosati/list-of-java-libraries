@@ -42,6 +42,13 @@ with a modern and reactive user interface written in JavaFX.
 ### Music
 
 
+#### [➔ alda](https://github.com/alda-lang/alda)
+
+Text-based programming language for music composition.
+
+[alda](https://alda.io/)
+
+
 ### Videos
 
 
@@ -159,6 +166,13 @@ extension to fx-actions that lets you do just that: declaratively define validat
 This library allows to convert a SVG file to a JavaFX Node tree or an Image.
 
 [Documentation](https://fxsvgimage.sourceforge.io/)
+
+
+#### [➔ JFoeniX](https://github.com/sshahine/JFoenix)
+
+JFoenix is an open source Java library, that implements Google Material Design using Java components.
+
+[Website](https://stars-one.github.io/JFoenix-Website/)
 
 
 #### [➔ JFreeChart-FX](https://github.com/jfree/jfreechart-fx)
