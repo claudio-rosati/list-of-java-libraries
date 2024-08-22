@@ -117,6 +117,13 @@ A Java framework for creating sophisticated calendar views based on JavaFX.
 [CalendarFX Developer Manual](https://dlsc-software-consulting-gmbh.github.io/CalendarFX/)
 
 
+#### [➔ ChartFx](https://github.com/fair-acc/chart-fx)
+
+ChartFx is a scientific charting library developed at GSI for FAIR with focus on performance optimised real-time data
+visualisation at 25 Hz update rates for data sets with a few 10 thousand up to 5 million data points common in digital
+signal processing applications.
+
+
 #### [➔ Charts](https://github.com/HanSolo/charts)
 
 A library for scientific charts in JavaFX.
@@ -130,6 +137,12 @@ ControlsFX is an open source project for JavaFX that aims to provide really high
 to complement the core JavaFX distribution. It has been developed for JavaFX 8.0 and beyond.
 
 [ControlsFX Homepage](https://controlsfx.github.io/)
+
+
+#### [➔ ExtJFX](https://github.com/extjfx/extjfx)
+
+A small library developed at CERN containing features needed by our JavaFX applications that are not supported by the
+standard JavaFX toolkit.
 
 
 #### [➔ FlexBoxFX](https://github.com/onexip/FlexBoxFX)
