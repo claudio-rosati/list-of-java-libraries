@@ -248,6 +248,11 @@ With Jonato JavaFX Controls you can extend your GUI with some new fresh controls
 [JFXC Wiki](https://github.com/Jonato/JFXC/wiki)
 
 
+#### [➔ MonacoFX](https://github.com/miho/MonacoFX)
+
+JavaFX editor node based on the powerful Monaco editor that drives VS Code.
+
+
 #### [➔ Medusa](https://github.com/HanSolo/medusa)
 
 A JavaFX library for Gauges. The main focus of this project is to provide Gauges that can be configured in multiple
