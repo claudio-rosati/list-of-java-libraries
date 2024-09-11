@@ -103,6 +103,11 @@ client-side applications (JavaFX and Swing) and server-side applications (with e
 A collection of Apple UI controls implemented in JavaFX.
 
 
+#### [➔ AnchorFX](https://github.com/alexbodogit/AnchorFX)
+
+Docking framework for JavaFX platform.
+
+
 #### [➔ AtlantaFX](https://github.com/mkpaz/atlantafx)
 
 Modern JavaFX CSS theme collection with additional controls.
@@ -139,6 +144,32 @@ to complement the core JavaFX distribution. It has been developed for JavaFX 8.0
 [ControlsFX Homepage](https://controlsfx.github.io/)
 
 
+#### [➔ DndDockFX](https://github.com/ccarlow/DndDockFX?tab=readme-ov-file)
+
+DndDockFX is yet another JavaFX docking library.
+
+
+#### [➔ DndTabPane](https://github.com/sibvisions/javafx.DndTabPane?tab=readme-ov-file)
+
+This repository holds a Drag'n'Drop extended TabPane which is an extension of the default JavaFX TabPane.
+
+
+#### [➔ DockFX](https://github.com/RobertBColton/DockFX)
+
+This library was created to fill the void for docking frameworks available in the JavaFX RIA platform. Its intention is
+to provide you with a fully featured docking library.
+
+
+#### [➔ DockSystemFX](https://github.com/Dansoftowner/DockSystemFX)
+
+Draggable Tabs for JavaFX.
+
+
+#### [➔ DraggableTabs](https://github.com/xylo/DraggableTabs)
+
+A JavaFX docking framework.
+
+
 #### [➔ ExtJFX](https://github.com/extjfx/extjfx)
 
 A small library developed at CERN containing features needed by our JavaFX applications that are not supported by the
@@ -148,6 +179,12 @@ standard JavaFX toolkit.
 #### [➔ FlexBoxFX](https://github.com/onexip/FlexBoxFX)
 
 FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
+
+
+#### [➔ FxDock](https://github.com/andy-goryachev/FxDock)
+
+This library was created to provide JavaFX developers with a simple docking framework that works well on Mac, Windows,
+and Linux with multiple monitors.
 
 
 #### [➔ FX-Actions](https://github.com/rrohm/fx-actions)
@@ -226,6 +263,11 @@ MigLayout is a superbly versatile JavaFX/SWT/Swing layout manager that makes lay
 Scenic View is a JavaFX application designed to make it simple to understand the current state of your application
 scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This l
 ets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
+
+
+#### [➔ TiwulFX-Dock](https://github.com/panemu/tiwulfx-dock)
+
+TiwulFX-Dock provides enhanced JavaFX TabPane that supports tab reordering, detaching and docking.
 
 
 #### [➔ ValidatorFX](https://github.com/effad/ValidatorFX)
