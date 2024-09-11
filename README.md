@@ -187,6 +187,11 @@ This library was created to provide JavaFX developers with a simple docking fram
 and Linux with multiple monitors.
 
 
+#### [➔ FXyz3D](https://github.com/FXyz/FXyz)
+
+A JavaFX 3D Visualization and Component Library.
+
+
 #### [➔ FX-Actions](https://github.com/rrohm/fx-actions)
 
 A small but versatile framework for speeding up development of JavaFX and FXML applications: use a declarative syntax
