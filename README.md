@@ -3,6 +3,21 @@
 A curated list of Java libraries
 
 
+----
+
+## Table of Contents
+- [Collections](#collections)
+- [I/O](#io)
+- [Math](#math)
+- [Media](#media)
+- [Streams](#streams)
+- [String & Text](#String--text)
+- [UI](#ui)
+- [Utilities](#utilities)
+
+----
+
+
 ## Collections
 
 
@@ -381,5 +396,13 @@ platform-specific installers and package managers.
 #### [➔ The jpackage Command](https://docs.oracle.com/en/java/javase/22/docs/specs/man/jpackage.html)
 
 `jpackage` is tool for packaging self-contained Java applications.
+
+
+### Other Lists of JavaFX Frameworks
+
+
+#### [➔ Awesome JavaFX](https://github.com/guigarage/AwesomeJavaFX)
+
+A curated list of awesome JavaFX frameworks, libraries, books and etc.
 
 
