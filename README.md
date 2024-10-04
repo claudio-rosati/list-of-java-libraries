@@ -393,6 +393,16 @@ It is fully cross-platform and generates a single installer. As such, it is an a
 platform-specific installers and package managers.
 
 
+#### [➔ jDeploy](https://www.jdeploy.com)
+
+jDeploy allows Java developers to deploy desktop applications as native bundles on Macintosh, Windows, and Linux.
+Unlike other deployment solutions, jDeploy doesn’t require any third party tools (other than OpenJDK), and can build
+native installers for Mac, Windows, and Linux on any platform. For example, you can build a native Windows installer
+on Linux or Mac, and vice versa. Applications deployed using jDeploy can also receive updates automatically as they
+become available, so you can be assured that your users will always be working with the latest version of your
+application.
+
+
 #### [➔ The jpackage Command](https://docs.oracle.com/en/java/javase/22/docs/specs/man/jpackage.html)
 
 `jpackage` is tool for packaging self-contained Java applications.
