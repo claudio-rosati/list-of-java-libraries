@@ -6,6 +6,7 @@ A curated list of Java libraries
 ----
 
 ## Table of Contents
+- [AI](#ai)
 - [Collections](#collections)
 - [I/O](#io)
 - [Math](#math)
@@ -16,6 +17,51 @@ A curated list of Java libraries
 - [Utilities](#utilities)
 
 ----
+
+
+## AI
+
+
+#### [➔ Apache Mahout](https://mahout.apache.org/)
+
+Apache Mahout™ is a distributed linear algebra framework and mathematically expressive Scala DSL designed to let
+mathematicians, statisticians, and data scientists quickly implement their own algorithms.
+
+
+#### [➔ Apache Spark](https://spark.apache.org/)
+
+Apache Spark™ is a multi-language engine for executing data engineering, data science, and machine learning on
+single-node machines or clusters.
+
+
+#### [➔ Deeplearning4j](https://deeplearning4j.konduit.ai/)
+
+Eclipse Deeplearning4j is a suite of tools for running deep learning on the JVM. It's the only framework that allows
+you to train models from java while interoperating with the python ecosystem through a mix of python execution via our
+cpython bindings, model import support, and interop of other runtimes such as tensorflow-java and onnxruntime.
+
+
+#### [➔ JavaML](https://github.com/AbeelLab/javaml)
+
+Java Machine Learning Library.
+
+
+#### [➔ Mallet: MAchine Learning for LanguagE Toolkit](https://mimno.github.io/Mallet/)
+
+MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic
+modeling, information extraction, and other machine learning applications to text.
+
+
+#### [➔ Weka](https://waikato.github.io/weka-wiki/)
+
+The WEKA workbench is a collection of machine learning algorithms and data preprocessing tools. It is designed so that
+you can quickly try out existing methods on new datasets in flexible ways. It provides extensive support for the whole
+process of experimental data mining, including preparing the input data, evaluating learning schemes statistically, and
+visualizing the input data and the result of learning. As well as a wide variety of learning algorithms, it includes a
+wide range of preprocessing tools. This diverse and comprehensive toolkit is accessed through a common interface so
+that its users can compare different methods and identify those that are most appropriate for the problem at hand.
+
+[Weka Wiki](https://github.com/Waikato/weka-wiki)
 
 
 ## Collections
