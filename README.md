@@ -159,6 +159,17 @@ client-side applications (JavaFX and Swing) and server-side applications (with e
 ### JavaFX
 
 
+#### [➔ animated](https://github.com/iamgio/animated)
+
+_animated_ introduces implicit animations, a completely new concept in JavaFX strongly inspired by Flutter's animations
+and motion widgets.
+
+
+#### [➔ AnimateFX](https://github.com/Typhon0/AnimateFX)
+
+A library of ready-to-use animations for JavaFX.
+
+
 #### [➔ Apple FX](https://github.com/HanSolo/applefx)
 
 A collection of Apple UI controls implemented in JavaFX.
@@ -262,6 +273,11 @@ for binding actions to the UI controls, for a clean separation of logic and pres
 #### [➔ FX-Behaviour](https://github.com/rrohm/fx-behaviour)
 
 The fx-behaviour library is a utility for JavaFX 11 that allows for declaratively defining the behaviour of JavaFX GUIs.
+
+
+#### [➔ fx-progress-circle](https://github.com/torakiki/fx-progress-circle)
+
+A couple of JavaFX progress indicators to display progress.
 
 
 #### [➔ FX-Unit](https://github.com/rrohm/fx-unit)
