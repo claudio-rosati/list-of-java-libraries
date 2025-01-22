@@ -478,3 +478,12 @@ application.
 A curated list of awesome JavaFX frameworks, libraries, books and etc.
 
 
+### Other Libraries
+
+
+#### [➔ router4j](https://github.com/tnas/router4j)
+
+A Java library for route distance calculator supported by free APIs.
+
+
+
