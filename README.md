@@ -325,6 +325,11 @@ With Jonato JavaFX Controls you can extend your GUI with some new fresh controls
 [JFXC Wiki](https://github.com/Jonato/JFXC/wiki)
 
 
+#### [➔ KeyboardFX](https://github.com/dlsc-software-consulting-gmbh/KeyboardFX)
+
+An on-screen keyboard, especially useful for touch applications (mobile, tablet).
+
+
 #### [➔ MonacoFX](https://github.com/miho/MonacoFX)
 
 JavaFX editor node based on the powerful Monaco editor that drives VS Code.
@@ -423,11 +428,6 @@ Generate beautiful DMG-images for your OS X applications.
 ### Installers
 
 
-#### [➔ How to deploy a JavaFX 11 Desktop application with a JRE](https://stackoverflow.com/questions/53453212/how-to-deploy-a-javafx-11-desktop-application-with-a-jre)
-
-A question from _stack overflow_ with interesting answers.
-
-
 #### [➔ install4j](https://www.ej-technologies.com/products/install4j/overview.html)
 
 install4j is a powerful multi-platform Java installer builder that generates native installers and application
@@ -485,5 +485,67 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc.
 
 A Java library for route distance calculator supported by free APIs.
 
+
+## Documentation and Articles
+
+
+### JavaFX
+
+
+#### [➔ Flags for JavaFX application](https://abhinay.xyz/javafx/2022/10/03/OpenJFX-flags.html)
+
+JavaFX has various flags to either add debug logs or switch configuration. However, there is no central location which
+lists all these flags.
+
+
+#### [➔ Flags for JavaFX applications](https://www.jfx-central.com/tips/application_flags)
+
+JavaFX has various flags to either add debug logs or switch configuration.
+
+
+#### [➔ Eliminate NPEs related to video memory in JavaFX apps](https://bell-sw.com/announcements/2022/04/26/insufficient-video-memory-causing-nullpointerexceptions-in-javafx-apps/)
+
+A working JavaFX application starts throwing multiple NPEs but doesn’t fail.
+
+
+#### [➔ JavaFX guide: Go graphical with Java](https://bell-sw.com/blog/javafx-guide-go-graphical-with-java/)
+
+Although Java doesn’t rule the world of desktop development, it has a powerful solution for developing rich client
+applications — JavaFX.
+
+
+#### [➔ JavaFX Absolute Beginners](https://www.tutorialspoint.com/javafx/index.htm)
+
+JavaFX simply easy learning.
+
+
+#### [➔ JavaFX Tutorial](https://www.javatpoint.com/javafx-tutorial)
+
+JavaFX tutorial provides basic and advanced concepts of JavaFX. Our JavaFX tutorial is designed for beginners and
+professionals.
+
+
+#### [➔ JavaFX virtual keyboard](https://stackoverflow.com/questions/26768523/javafx-virtual-keyboard)
+
+Yes, there is such a thing as JavaFX virtual keyboard in the Oracle Java 8 distribution, though it is not documented or
+supported by Oracle outside of the embedded version of JavaFX.
+
+
+#### [➔ JFX Central](https://www.jfx-central.com/)
+
+Home to anything JavaFX related.
+
+
+### Installers
+
+
+#### [➔ How to deploy a JavaFX 11 Desktop application with a JRE](https://stackoverflow.com/questions/53453212/how-to-deploy-a-javafx-11-desktop-application-with-a-jre)
+
+A question from _stack overflow_ with interesting answers.
+
+
+#### [➔ Turning JavaFX apps into native images](https://bell-sw.com/announcements/2022/08/24/turning-javafx-apps-into-native-images/)
+
+How to integrate JavaFX applications with native image technology.
 
 
