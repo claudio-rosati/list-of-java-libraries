@@ -350,6 +350,18 @@ MigLayout is a superbly versatile JavaFX/SWT/Swing layout manager that makes lay
 [MigLayout](http://miglayout.com/)
 
 
+#### [➔ ReactFX](https://github.com/TomasMikula/ReactFX)
+
+ReactFX is an exploration of (functional) reactive programming techniques for JavaFX. These techniques usually result
+in more concise code, less side effects and less inversion of control, all of which improve the readability of code.
+
+
+#### [➔ RxJavaFX](https://github.com/torakiki/RxJavaFX)
+
+RxJavaFX is a lightweight library to convert JavaFX events into RxJava Observables/Flowables and vice versa. It also
+has a Scheduler to safely move emissions to the JavaFX Event Dispatch Thread.
+
+
 #### [➔ Scenic View](https://github.com/JonathanGiles/scenic-view)
 
 Scenic View is a JavaFX application designed to make it simple to understand the current state of your application
@@ -423,6 +435,28 @@ A shell script to build fancy DMGs.
 #### [➔ node-appdmg](https://github.com/LinusU/node-appdmg)
 
 Generate beautiful DMG-images for your OS X applications.
+
+
+#### [➔ RxJava](https://github.com/ReactiveX/RxJava)
+
+RxJava is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous
+and event-based programs by using observable sequences.
+
+It extends the [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern) to support sequences of data/events
+and adds operators that allow you to compose sequences together declaratively while abstracting away concerns about
+things like low-level threading, synchronization, thread-safety and concurrent data structures.
+
+[RxJava](https://github.com/ReactiveX/RxJava/wiki)
+
+
+#### [➔ RxJava Extensions](https://github.com/akarnokd/RxJavaExtensions)
+
+RxJava 3.x implementation of extra sources, operators and components and ports of many 1.x companion libraries.
+
+
+#### [➔ RxJava FileUtils](https://github.com/ReactiveX/RxJavaFileUtils)
+
+File utility operators for RxJava.
 
 
 ### Installers
