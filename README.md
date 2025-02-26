@@ -144,11 +144,24 @@ Swing) or the server side, with export to multiple formats including SVG, PNG an
 
 [JFreeChart](https://www.jfree.org/jfreechart/)
 
+
 #### [➔ JFreeSVG](https://github.com/jfree/jfreesvg)
 
 JFreeSVG is a graphics library for the Java(tm) platform that allows you to generate content in SVG format using the
 standard Java2D drawing API (Graphics2D). JFreeSVG is light-weight, fast, and has no dependencies other than the Java
 runtime (11 or later).
+
+
+#### [➔ JSVG](https://github.com/weisJ/jsvg)
+
+JSVG is an SVG user agent using AWT graphics. Its aim is to provide a small and fast implementation. This library is
+under active development and doesn't yet support all features of the SVG specification, some of which it decidedly
+won't support at all. This implementation only tries to be a static user agent meaning it won't support any scripting
+languages or interaction. Animations aren't currently implemented but are planned to be supported.
+
+This library aims to be as lightweight as possible. Generally JSVG uses ~50% less memory than svgSalamander and ~98%
+less than Batik.
+
 
 #### [➔ Orson Charts](https://github.com/jfree/orson-charts)
 
