@@ -272,6 +272,13 @@ This library was created to provide JavaFX developers with a simple docking fram
 and Linux with multiple monitors.
 
 
+#### [➔ fxsvgimage](https://github.com/hervegirod/fxsvgimage)
+
+This library allows to convert a SVG file to a JavaFX Node tree or an Image.
+
+[Documentation](https://fxsvgimage.sourceforge.io/)
+
+
 #### [➔ FXyz3D](https://github.com/FXyz/FXyz)
 
 A JavaFX 3D Visualization and Component Library.
