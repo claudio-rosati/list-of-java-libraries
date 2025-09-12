@@ -13,9 +13,10 @@ A curated list of Java libraries
 - [Math](#math)
 - [Media](#media)
 - [Streams](#streams)
-- [String & Text](#String--text)
+- [String & Text](#string--text)
 - [UI](#ui)
 - [Utilities](#utilities)
+- [Documentation and Articles](#documentation-and-articles)
 
 ----
 
@@ -71,6 +72,11 @@ that its users can compare different methods and identify those that are most ap
 #### ➔ [Apache Commons Collections](https://commons.apache.org/proper/commons-collections/)
 
 Commons-Collections seek to build upon the JDK classes by providing new interfaces, implementations and utilities.
+
+
+#### ➔ [VCollections](https://github.com/miho/VCollections)
+
+Lightweight observable collections.
 
 
 ## I/O
@@ -437,6 +443,12 @@ RxJavaFX is a lightweight library to convert JavaFX events into RxJava Observabl
 has a Scheduler to safely move emissions to the JavaFX Event Dispatch Thread.
 
 
+#### ➔ [ScaledFX](https://github.com/miho/ScaledFX)
+
+JavaFX pane for scaling arbitrary content nodes (used in Vworkflows) by applying scale transformations.
+The `ScalableContentPane` scales its content to always fit the container bounds.
+
+
 #### ➔ [Scenic View](https://github.com/JonathanGiles/scenic-view)
 
 Scenic View is a JavaFX application designed to make it simple to understand the current state of your application
@@ -454,6 +466,12 @@ TiwulFX-Dock provides enhanced JavaFX TabPane that supports tab reordering, deta
 ValidatorFX is a validation library for JavaFX.
 
 
+#### ➔ [VWorkflows](https://github.com/miho/VWorkflows)
+
+Interactive flow/graph visualization for building domain specific visual programming environments.
+Provides UI bindings for JavaFX.
+
+
 ### Other UI Platforms
 
 
@@ -462,8 +480,10 @@ ValidatorFX is a validation library for JavaFX.
 Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and
 software platforms. Skija is a high-quality Java bindings for Skia.
 
-[Getting Started](https://github.com/HumbleUI/Skija/blob/master/docs/Getting%20Started.md),
-[SkiaSharp documentation](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/),
+[Getting Started](https://github.com/HumbleUI/Skija/blob/master/docs/Getting%20Started.md)
+
+[SkiaSharp documentation](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
+
 [Skia Documentation](https://api.skia.org/)
 
 
@@ -545,6 +565,13 @@ RxJava 3.x implementation of extra sources, operators and components and ports o
 File utility operators for RxJava.
 
 
+#### ➔ [VMF](https://github.com/miho/VMF)
+
+VMF is a lightweight modeling framework. It conveniently translates annotated Java interfaces into powerful
+implementations. It writes all the inevitable but boring boilerplate code for you and provides a modern and stable API.
+It is designed to work with the newest versions of Java as soon as they are released. It works well with Java 11-24.
+
+
 ### Installers
 
 
@@ -598,6 +625,11 @@ application.
 A curated list of awesome JavaFX frameworks, libraries, books and etc.
 
 
+#### ➔ [Awesome Swing](https://github.com/miho/awesome-swing)
+
+A list of frameworks, libraries and software for the Java Swing GUI toolkit.
+
+
 #### ➔ [Best JavaFX Libraries for Beautiful Apps and Clean Code](https://www.jrebel.com/blog/best-javafx-libraries)
 
 JavaFX is better when you use the right libraries. But which libraries should developers use for layout, widgets,
@@ -610,12 +642,27 @@ appearance, and testing? In this article, we look at the JavaFX libraries from A
 Public repositories matching this topic.
 
 
-### Other Libraries
+### Other Libraries and Tools
+
+
+#### ➔ [Luciad Developer Platform](https://dev.luciad.com/portal/welcome/)
+
+Powerful high-level application framework for rapidly building applications that let you explore, analyze, and edit all
+kinds of geospatial data.
+
+[Lightspeed Views: Working with a JavaFX view](https://dev.luciad.com/portal/productDocumentation/LuciadFusion/docs/documentation.html?subcategory=fx_view)
+
+[Printing a JavaFX view](https://dev.luciad.com/portal/productDocumentation/LuciadFusion/docs/articles/tutorial/printing/printing_fx.html)
 
 
 #### ➔ [router4j](https://github.com/tnas/router4j)
 
 A Java library for route distance calculator supported by free APIs.
+
+
+#### ➔ [VRL-Studio](https://vrl-studio.mihosoft.eu/)
+
+Innovative, intuitive and powerful Visual IDE for rapid prototyping, learning, teaching and experimentation.
 
 
 ## Documentation and Articles
