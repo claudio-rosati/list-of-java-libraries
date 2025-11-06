@@ -256,6 +256,11 @@ Modern JavaFX CSS theme collection with additional controls.
 [AtlantaFX Overview](https://mkpaz.github.io/atlantafx/)
 
 
+#### ➔ [autumo UI](https://products.autumo.ch/modules/overview#at_ui)
+
+Rapid Java FX development framework.
+
+
 #### ➔ [CalendarFX](https://github.com/dlsc-software-consulting-gmbh/CalendarFX)
 
 A Java framework for creating sophisticated calendar views based on JavaFX.
@@ -456,6 +461,47 @@ scenegraph, and to also easily manipulate properties of the scenegraph without h
 ets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
 
 
+#### ➔ [Techsenger ANSI4J](https://github.com/techsenger/ansi4j)
+
+Techsenger ANSI4J is a Java library that parses ANSI escape codes in full accordance with ISO/IEC 6429:1992. It
+supports all functions of all five types. At the same time parser architecture allows to add easily any other custom
+types of functions and mechanism to process them.
+
+
+#### ➔ [Techsenger JediTermFX](https://github.com/techsenger/jeditermfx)
+
+Techsenger JediTermFX is a Terminal Emulator for JavaFX. The project is a result of porting JediTerm (commit 8366f2b)
+from Swing to JavaFX. JediTermFX exclusively utilizes JavaFX components. Therefore, the Terminal Emulator based on this
+library can be seamlessly integrated into any JavaFX application. A detailed comparison of terminal libraries is
+provided below.
+
+
+#### ➔ [Techsenger MVVM4FX](https://github.com/techsenger/mvvm4fx)
+
+Techsenger MVVM4FX is a tiny framework for developing JavaFX applications using the MVVM pattern. It provides all the
+necessary interfaces and base class implementations for creating components, which serve as the units of the MVVM
+pattern. Examples of components include tabs, dialog windows, toolbars, image viewers, help pages, and more.
+
+
+#### ➔ [Techsenger StagePro](https://github.com/techsenger/stagepro)
+
+Techsenger StagePro is a library that allows you to create custom stages with nearly any configuration, while remaining
+easy to use. The project also includes a sampler module, featuring key samples to help you get started with the library.
+
+
+#### ➔ [Techsenger TabPanePro](https://github.com/techsenger/tabpanepro)
+
+Techsenger TabPanePro is a lightweight JavaFX library that extends the standard TabPane with practical features such as
+custom control areas, custom tab shapes, tab drag-and-drop with edge scrolling, a tab scrollbar, and more. The library
+is built on top of the standard TabPaneSkin, carefully extracted from the OpenJFX project along with a minimal set of
+required classes.
+
+
+#### ➔ [Techsenger TabShell](https://github.com/techsenger/tabshell)
+
+Techsenger TabShell is a lightweight platform for building tab-based applications in JavaFX using the MVVM pattern.
+
+
 #### ➔ [TiwulFX-Dock](https://github.com/panemu/tiwulfx-dock)
 
 TiwulFX-Dock provides enhanced JavaFX TabPane that supports tab reordering, detaching and docking.
@@ -563,6 +609,19 @@ RxJava 3.x implementation of extra sources, operators and components and ports o
 #### ➔ [RxJava FileUtils](https://github.com/ReactiveX/RxJavaFileUtils)
 
 File utility operators for RxJava.
+
+
+#### ➔ [Techsenger Alpha](https://github.com/techsenger/alpha)
+
+JPMS (Java Platform Module System), which was introduced in Java 9, along with modules, added the concept of module
+layer. A layer can be defined as a group of modules that are loaded and managed together. Techsenger Alpha is a
+framework designed to work with module layers. The framework resides in the boot layer and handles all the work of
+managing the other layers.
+
+
+#### ➔ [Techsenger Toolkit](https://github.com/techsenger/toolkit)
+
+A collection of useful tools and basic classes.
 
 
 #### ➔ [VMF](https://github.com/miho/VMF)
