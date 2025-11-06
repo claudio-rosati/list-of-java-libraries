@@ -338,6 +338,12 @@ This library was created to provide JavaFX developers with a simple docking fram
 and Linux with multiple monitors.
 
 
+#### ➔ [FXParallax](https://github.com/dukke/FXParallax)
+
+Parallax framework for Java (JavaFX). This framework adds controls to add Parallax effects to JavaFX application, this
+effect can add a sense of depth (3D like) to where it’s used.
+
+
 #### ➔ [fxsvgimage](https://github.com/hervegirod/fxsvgimage)
 
 This library allows to convert a SVG file to a JavaFX Node tree or an Image.
@@ -505,6 +511,11 @@ Techsenger TabShell is a lightweight platform for building tab-based application
 #### ➔ [TiwulFX-Dock](https://github.com/panemu/tiwulfx-dock)
 
 TiwulFX-Dock provides enhanced JavaFX TabPane that supports tab reordering, detaching and docking.
+
+
+#### ➔ [TreeMapFX](https://github.com/Col-E/TreeMapFX)
+
+A simple and flexible "tree map" chart control for JavaFX.
 
 
 #### ➔ [ValidatorFX](https://github.com/effad/ValidatorFX)
@@ -730,6 +741,16 @@ Innovative, intuitive and powerful Visual IDE for rapid prototyping, learning, t
 ### JavaFX
 
 
+#### ➔ [Dark / Darcula Theme](https://www.jfx-central.com/tips/darcula)
+
+A dark theme for your application.
+
+
+#### ➔ [Eliminate NPEs related to video memory in JavaFX apps](https://bell-sw.com/announcements/2022/04/26/insufficient-video-memory-causing-nullpointerexceptions-in-javafx-apps/)
+
+A working JavaFX application starts throwing multiple NPEs but doesn’t fail.
+
+
 #### ➔ [Flags for JavaFX application](https://abhinay.xyz/javafx/2022/10/03/OpenJFX-flags.html)
 
 JavaFX has various flags to either add debug logs or switch configuration. However, there is no central location which
@@ -739,11 +760,6 @@ lists all these flags.
 #### ➔ [Flags for JavaFX applications](https://www.jfx-central.com/tips/application_flags)
 
 JavaFX has various flags to either add debug logs or switch configuration.
-
-
-#### ➔ [Eliminate NPEs related to video memory in JavaFX apps](https://bell-sw.com/announcements/2022/04/26/insufficient-video-memory-causing-nullpointerexceptions-in-javafx-apps/)
-
-A working JavaFX application starts throwing multiple NPEs but doesn’t fail.
 
 
 #### ➔ [JavaFX guide: Go graphical with Java](https://bell-sw.com/blog/javafx-guide-go-graphical-with-java/)
@@ -772,6 +788,11 @@ supported by Oracle outside of the embedded version of JavaFX.
 #### ➔ [JFX Central](https://www.jfx-central.com/)
 
 Home to anything JavaFX related.
+
+
+#### ➔ [ScrollPane with DropShadow](https://www.jfx-central.com/tips/scrollshadow)
+
+Show a shadow inside a scrollpane when the content is scrolled.
 
 
 ### Installers
