@@ -297,6 +297,17 @@ While developing you can run your JavaFX application, modify some CSS sources in
 and your JavaFX application is modified in real time.
 
 
+#### ➔ [BentoFX](https://github.com/Col-E/BentoFX)
+
+A docking system for JavaFX.
+
+
+#### ➔ [CalendarFX](https://dlsc.com/products/calendarfx/)
+
+CalendarFX is an open source calendar framework for JavaFX 8. It contains a set of professional custom controls, which
+can be used to implement a calendar UI for any kind of application.
+
+
 #### ➔ [DashboardFx](https://github.com/gleidsonmt/DashboardFx)
 
 DndDockFX is yet another JavaFX docking library.
@@ -337,6 +348,11 @@ standard JavaFX toolkit.
 #### ➔ [FlexBoxFX](https://github.com/onexip/FlexBoxFX)
 
 FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
+
+
+#### ➔ [FormsFX](https://github.com/dlsc-software-consulting-gmbh/FormsFX)
+
+Forms for business application made easy.
 
 
 #### ➔ [FxDock](https://github.com/andy-goryachev/FxDock)
@@ -399,6 +415,12 @@ This library allows to convert a SVG file to a JavaFX Node tree or an Image.
 [Documentation](https://fxsvgimage.sourceforge.io/)
 
 
+#### ➔ [GMapsFX](https://github.com/dlsc-software-consulting-gmbh/GMapsFX)
+
+A pure JavaFX API which allows you to add Google Maps to your JavaFX application without the need to interact with the
+underlying Google Maps JavaScript API.
+
+
 #### ➔ [JFoeniX](https://github.com/sshahine/JFoenix)
 
 JFoenix is an open source Java library, that implements Google Material Design using Java components.
@@ -447,6 +469,17 @@ ways.
 MigLayout is a superbly versatile JavaFX/SWT/Swing layout manager that makes layout problems trivial.
 
 [MigLayout](http://miglayout.com/)
+
+
+#### ➔ [PickerFX](https://github.com/dlsc-software-consulting-gmbh/PickerFX)
+
+PickerFX is a lightweight framework for creating picker (touch) controls. Currently the only documentation is the
+source code itself. Please take a look at the file DemoApp.java to find out how to use the framework.
+
+
+#### ➔ [PreferencesFX](https://github.com/dlsc-software-consulting-gmbh/PreferencesFX)
+
+Preference dialogs for business applications made easy. Creating preference dialogs in Java has never been this easy!
 
 
 #### ➔ [ReactFX](https://github.com/TomasMikula/ReactFX)
@@ -525,9 +558,19 @@ TiwulFX-Dock provides enhanced JavaFX TabPane that supports tab reordering, deta
 A simple and flexible "tree map" chart control for JavaFX.
 
 
+#### ➔ [UnitFX](https://github.com/dlsc-software-consulting-gmbh/UnitFX)
+
+UnitFX is a lightweight framework for creating textfield input controls based on a "unit of measure" UOM.
+
+
 #### ➔ [ValidatorFX](https://github.com/effad/ValidatorFX)
 
 ValidatorFX is a validation library for JavaFX.
+
+
+#### ➔ [WorkbenchFX](https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX)
+
+The one and only framework to build large JavaFX Applications!
 
 
 #### ➔ [VWorkflows](https://github.com/miho/VWorkflows)
@@ -719,7 +762,17 @@ appearance, and testing? In this article, we look at the JavaFX libraries from A
 Public repositories matching this topic.
 
 
+#### ➔ [GemsFX](https://github.com/dlsc-software-consulting-gmbh/GemsFX)
+
+GemsFX is a collection of custom controls and utilities for JavaFX.
+
+
 ### Other Libraries and Tools
+
+
+#### ➔ [DLSC](https://dlsc.com/)
+
+Professional JavaFX Controls.
 
 
 #### ➔ [Luciad Developer Platform](https://dev.luciad.com/portal/welcome/)
