@@ -361,6 +361,12 @@ This library was created to provide JavaFX developers with a simple docking fram
 and Linux with multiple monitors.
 
 
+#### ➔ [FxmlKit](https://github.com/dlsc-software-consulting-gmbh/FxmlKit)
+
+JavaFX FXML loader with FXML/CSS hot-reload and convention-over-configuration. Auto-resolves files by class name,
+supports optional DI, and eliminates boilerplate.
+
+
 #### ➔ [FXParallax](https://github.com/dukke/FXParallax)
 
 Parallax framework for Java (JavaFX). This framework adds controls to add Parallax effects to JavaFX application, this
@@ -372,6 +378,13 @@ effect can add a sense of depth (3D like) to where it’s used.
 This library allows to convert a SVG file to a JavaFX Node tree or an Image.
 
 [Documentation](https://fxsvgimage.sourceforge.io/)
+
+
+#### ➔ [FXThemes](https://github.com/dukke/FXThemes)
+
+Utility classes for advanced Theme development for JavaFX.
+
+[Documentation](https://www.pixelduke.com/fxthemes/)
 
 
 #### ➔ [FXyz3D](https://github.com/FXyz/FXyz)
@@ -602,12 +615,29 @@ SkijaGraphics2D is an implementation of Java2D's Graphics2D API that targets Ski
 ### UI Tools
 
 
+#### ➔ [FXTools](https://github.com/leewyatt/FXTools)
+
+A practical tool developed using JavaFX; Software development for PC or mobile; Image tools,Color tools,Svg Tools,
+Font tools, Library and so on.
+
+
+#### ➔ [JxBrowser](https://teamdev.com/jxbrowser/)
+
+Add Chromium web browser to your Java app. Display web pages and PDFs in JavaFX, Swing, SWT. Work with DOM, JS,
+Network, Printing, Downloads, etc.
+
+
 #### ➔ [Responsively App](https://responsively.app)
 
 A must-have dev tool for web developers for quicker responsive web development. It is modified browser built using
 [Electron](https://www.electronjs.org) that helps in responsive web development.
 
 [GitHub Repository](https://github.com/responsively-org/responsively-app)
+
+
+#### ➔ [Webswing App](https://www.webswing.org)
+
+Run any Java Desktop Application in a web browser.
 
 
 ## Utilities
