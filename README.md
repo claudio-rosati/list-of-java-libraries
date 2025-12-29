@@ -12,11 +12,24 @@ A curated list of Java libraries
 - [Injection](#injection)
 - [Math](#math)
 - [Media](#media)
+    - [Audio](#audio)
+    - [Image](#image)
+    - [Music](#music)
+    - [Video](#video)
 - [Streams](#streams)
 - [String & Text](#string--text)
 - [UI](#ui)
+    - [Swing](#swing)
+    - [JavaFX](#javafx)
+    - [Other UI Platforms](#other-ui-platforms)
+    - [UI Tools](#ui-tools)
 - [Utilities](#utilities)
+    - [Installers](#installers)
+    - [Other Lists of JavaFX Frameworks](#other-lists-of-java-fx-frameworks)
+    - [Other Libraries and Tools Frameworks](#other-libraries-and-tools)
 - [Documentation and Articles](#documentation-and-articles)
+    - [JavaFX](#javafx-1)
+    - [Installers](#installers-1)
 
 ----
 
@@ -147,7 +160,7 @@ Apache Commons Lang.
 ### Audio
 
 
-### Images
+### Image
 
 
 #### ➔ [PhotoSlide](https://github.com/lanthale/PhotoSlide)
@@ -166,7 +179,7 @@ Text-based programming language for music composition.
 [alda](https://alda.io/)
 
 
-### Videos
+### Video
 
 
 ## Streams
