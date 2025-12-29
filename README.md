@@ -172,6 +172,18 @@ Text-based programming language for music composition.
 ## Streams
 
 
+#### ➔ [StreamEx](https://github.com/amaembo/streamex)
+
+This library defines four classes: `StreamEx`, `IntStreamEx`, `LongStreamEx`, `DoubleStreamEx` that are fully
+compatible with the Java 8 stream classes and provide many useful additional methods. Also, the `EntryStream` class is
+provided which represents a stream of map entries and provides additional functionality for this case. Finally, there
+are some useful new collectors defined in `MoreCollectors` class as well as the primitive collectors concept.
+
+[API](https://amaembo.github.io/streamex/javadoc/one/util/streamex/package-summary.html),
+[Cheatsheet](https://github.com/amaembo/streamex/blob/master/wiki/CHEATSHEET.md),
+[Introduction to StreamEx](https://www.baeldung.com/streamex)
+
+
 ## String & Text
 
 
