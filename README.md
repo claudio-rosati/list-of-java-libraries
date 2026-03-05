@@ -380,6 +380,16 @@ FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
 Forms for business application made easy.
 
 
+#### ➔ [FXCharts](https://github.com/dukke/FXCharts?tab=readme-ov-file)
+
+Enhancements to JavaFX builtin charts library.
+
+
+#### ➔ [FXComponents](https://github.com/dukke/FXComponents)
+
+A collection of controls for JavaFX.
+
+
 #### ➔ [FxDock](https://github.com/andy-goryachev/FxDock)
 
 This library was created to provide JavaFX developers with a simple docking framework that works well on Mac, Windows,
@@ -396,6 +406,18 @@ supports optional DI, and eliminates boilerplate.
 
 Parallax framework for Java (JavaFX). This framework adds controls to add Parallax effects to JavaFX application, this
 effect can add a sense of depth (3D like) to where it’s used.
+
+
+#### ➔ [FXRibbon](https://github.com/dukke/FXRibbon)
+
+Ribbon control for Java, using JavaFX framework, based on
+[Microsoft Ribbon](https://en.wikipedia.org/wiki/Ribbon_(computing)).
+
+
+#### ➔ [FXSkins](https://github.com/dukke/FXSkins)
+
+A collection of new Skins for existing JavaFX controls. These Skins will add more functionality to the controls used in
+your applications with practically zero need for code changes.
 
 
 #### ➔ [fxsvgimage](https://github.com/hervegirod/fxsvgimage)
@@ -589,6 +611,11 @@ Techsenger TabShell is a lightweight platform for building tab-based application
 #### ➔ [TiwulFX-Dock](https://github.com/panemu/tiwulfx-dock)
 
 TiwulFX-Dock provides enhanced JavaFX TabPane that supports tab reordering, detaching and docking.
+
+
+#### ➔ [Transit Theme](https://github.com/dukke/Transit)
+
+Modern JavaFX theme that changes looks and enhances functionality.
 
 
 #### ➔ [TreeMapFX](https://github.com/Col-E/TreeMapFX)
