@@ -506,6 +506,13 @@ With Jonato JavaFX Controls you can extend your GUI with some new fresh controls
 [JFXC Wiki](https://github.com/Jonato/JFXC/wiki)
 
 
+#### ➔ [JZY3D](http://www.jzy3d.org/)
+
+Jzy3d is an open source java library that allows to easily draw 3d scientific data: surfaces, scatter plots, bar
+charts, and lot of other 3d primitives. The API provides support for rich interactive charts, with colorbars, tooltips
+and overlays. Axis and chart layout can be fully customized and enhanced.
+
+
 #### ➔ [KeyboardFX](https://github.com/dlsc-software-consulting-gmbh/KeyboardFX)
 
 An on-screen keyboard, especially useful for touch applications (mobile, tablet).
