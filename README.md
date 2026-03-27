@@ -674,10 +674,26 @@ SkijaGraphics2D is an implementation of Java2D's Graphics2D API that targets Ski
 ### UI Tools
 
 
+#### ➔ [Barcode-Lib4J](https://www.vw-software.com/java-barcode-library/)
+
+Open Source Java library for drawing, printing and saving 1D and 2D barcodes as vector (PDF, EPS, SVG) and raster
+(PNG, BMP, JPG) images.
+
+
+#### ➔ [Barcode4J](https://barcode4j.sourceforge.net/)
+
+Barcode4J is a flexible generator for barcodes written in Java.
+
+
 #### ➔ [FXTools](https://github.com/leewyatt/FXTools)
 
 A practical tool developed using JavaFX; Software development for PC or mobile; Image tools,Color tools,Svg Tools,
 Font tools, Library and so on.
+
+
+#### ➔ [iText](https://itextpdf.com/)
+
+iText has a number of solutions for creating PDF documents.
 
 
 #### ➔ [JxBrowser](https://teamdev.com/jxbrowser/)
