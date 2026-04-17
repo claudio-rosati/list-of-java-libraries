@@ -95,6 +95,13 @@ Lightweight observable collections.
 ## I/O
 
 
+#### ➔ [Java WebSockets](https://github.com/tootallnate/java-websocket)
+
+This repository contains a barebones WebSocket server and client implementation written in 100% Java. The underlying
+classes are implemented java.nio, which allows for a non-blocking event-driven model (similar to the
+[WebSocket API](https://websockets.spec.whatwg.org/) for web browsers).
+
+
 ## Injection
 
 
