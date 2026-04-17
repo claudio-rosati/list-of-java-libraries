@@ -333,6 +333,12 @@ CalendarFX is an open source calendar framework for JavaFX 8. It contains a set 
 can be used to implement a calendar UI for any kind of application.
 
 
+#### ➔ [CarouselFX](https://github.com/dlsc-software-consulting-gmbh/CarouselFX)
+
+A feature-rich carousel / slideshow component for JavaFX with 75+ built-in page transition animations. Ready to use out
+of the box for image galleries, ad banners, app page navigation, and more.
+
+
 #### ➔ [DashboardFx](https://github.com/gleidsonmt/DashboardFx)
 
 DndDockFX is yet another JavaFX docking library.
@@ -378,6 +384,13 @@ FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
 #### ➔ [FormsFX](https://github.com/dlsc-software-consulting-gmbh/FormsFX)
 
 Forms for business application made easy.
+
+
+#### ➔ [FXAlert](https://github.com/dustinkredmond/FXAlert)
+
+FXAlert believes that dialogs should come easy. JavaFX Alerts can be slightly convoluted. FXAlert makes
+showing/creating dialogs, getting user input, graphics, icons, and using JavaFX Alerts in general, a much smoother
+process.
 
 
 #### ➔ [FXCharts](https://github.com/dukke/FXCharts?tab=readme-ov-file)
@@ -432,6 +445,14 @@ This library allows to convert a SVG file to a JavaFX Node tree or an Image.
 Utility classes for advanced Theme development for JavaFX.
 
 [Documentation](https://www.pixelduke.com/fxthemes/)
+
+
+#### ➔ [FXTrayIcon](https://github.com/dustinkredmond/FXTrayIcon)
+
+Library for use in JavaFX applications that makes adding a System Tray icon easier. The FXTrayIcon class handles all
+the messy AWT and Swing parts of constructing an icon, displaying notifications, creating a context menu, etc. This
+means that users of FXTrayIcon can work solely with its public API and JavaFX classes that they are already familiar
+with.
 
 
 #### ➔ [FXyz3D](https://github.com/FXyz/FXyz)
@@ -491,6 +512,11 @@ JFoenix is an open source Java library, that implements Google Material Design u
 #### ➔ [JFreeChart-FX](https://github.com/jfree/jfreechart-fx)
 
 JFreeChart-FX is an extension for JFreeChart that allows JFreeChart to be used in JavaFX applications.
+
+
+#### ➔ [JavaFXTableMapper](https://github.com/dustinkredmond/JavaFXTableMapper)
+
+Simply use ObjectTableView in place of JavaFX's TableView and all of the work is handled for you.
 
 
 #### ➔ [FXGraphics2D](https://github.com/jfree/fxgraphics2d)
@@ -574,6 +600,14 @@ scenegraph, and to also easily manipulate properties of the scenegraph without h
 ets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
 
 
+#### ➔ [Switcher](https://github.com/dustinkredmond/Switcher)
+
+Library intended for use in JavaFX applications that makes adding and switching Scenes easy. The Switcher library can
+be used to quickly add Scenes to your project, and offers a single line of code method to switch out scenes on the fly
+without all the messy code that goes along with managing Scenes in JavaFX. You simply assign a unique sceneID (int) to
+your scene, and Switcher takes care of the rest!
+
+
 #### ➔ [Techsenger ANSI4J](https://github.com/techsenger/ansi4j)
 
 Techsenger ANSI4J is a Java library that parses ANSI escape codes in full accordance with ISO/IEC 6429:1992. It
@@ -613,6 +647,19 @@ required classes.
 #### ➔ [Techsenger TabShell](https://github.com/techsenger/tabshell)
 
 Techsenger TabShell is a lightweight platform for building tab-based applications in JavaFX using the MVVM pattern.
+
+
+#### ➔ [Techsenger Weaverbird](https://github.com/techsenger/weaverbird)
+
+Techsenger Weaverbird is a framework built on top of the Java Platform Module System (JPMS) that manages modular
+components through dynamic module layers. It provides a powerful API and versatile interfaces (CLI/GUI) with multiple
+built-in commands — helping developers efficiently build and manage modular systems.
+
+The framework can be used for programs that:
+- Have subsystems that can be dynamically added or removed.
+- Support plugins, extensions, add-ons, etc., that can be dynamically loaded.
+- Include a web server and web applications, where each web application is a module.
+- Use modules that are loaded based on conditions, such as the operating system type, etc.
 
 
 #### ➔ [TiwulFX-Dock](https://github.com/panemu/tiwulfx-dock)
@@ -800,6 +847,12 @@ It is designed to work with the newest versions of Java as soon as they are rele
 ### Installers
 
 
+#### ➔ [FXLauncher](https://github.com/edvin/fxlauncher)
+
+Auto updating launcher for JavaFX Applications. Combined with JavaFX native packaging, you get a native installer with
+automatic app updates.
+
+
 #### ➔ [install4j](https://www.ej-technologies.com/products/install4j/overview.html)
 
 install4j is a powerful multi-platform Java installer builder that generates native installers and application
@@ -827,7 +880,7 @@ It is fully cross-platform and generates a single installer. As such, it is an a
 platform-specific installers and package managers.
 
 
-#### ➔ [jDeploy](https://www.jdeploy.com)
+#### ➔ [jDeploy](https://www.jdeploy.com/)
 
 jDeploy allows Java developers to deploy desktop applications as native bundles on Macintosh, Windows, and Linux.
 Unlike other deployment solutions, jDeploy doesn’t require any third party tools (other than OpenJDK), and can build
