@@ -251,6 +251,12 @@ This library aims to be as lightweight as possible. Generally JSVG uses ~50% les
 less than Batik.
 
 
+#### ➔ [JxBrowser](https://teamdev.com/jxbrowser/)
+
+Add Chromium web browser to your Java app. Display web pages and PDFs in JavaFX, Swing, SWT.
+Work with DOM, JS, Network, Printing, Downloads, etc.
+
+
 #### ➔ [Orson Charts](https://github.com/jfree/orson-charts)
 
 Orson Charts is a 3D chart library for the Java™ platform that can generate a wide variety of 3D charts for use in
@@ -346,6 +352,11 @@ A feature-rich carousel / slideshow component for JavaFX with 75+ built-in page 
 of the box for image galleries, ad banners, app page navigation, and more.
 
 
+#### ➔ [CustomStage](https://github.com/Oshan96/CustomStage)
+
+A JavaFX undecorated stage which can fully be customized.
+
+
 #### ➔ [DashboardFx](https://github.com/gleidsonmt/DashboardFx)
 
 DndDockFX is yet another JavaFX docking library.
@@ -375,6 +386,12 @@ Draggable Tabs for JavaFX.
 #### ➔ [DraggableTabs](https://github.com/xylo/DraggableTabs)
 
 A JavaFX docking framework.
+
+
+#### ➔ [EasyBind](https://github.com/TomasMikula/EasyBind)
+
+EasyBind leverages lambdas to reduce boilerplate when creating custom bindings, provides a type-safe alternative to
+Bindings.select* methods and adds monadic operations to ObservableValue.
 
 
 #### ➔ [ExtJFX](https://github.com/extjfx/extjfx)
@@ -414,6 +431,12 @@ A collection of controls for JavaFX.
 
 This library was created to provide JavaFX developers with a simple docking framework that works well on Mac, Windows,
 and Linux with multiple monitors.
+
+
+#### ➔ [FXGraphics2D](https://github.com/jfree/fxgraphics2d)
+
+FXGraphics2D is an implementation of Java's Graphics2D API that targets the JavaFX Canvas. It makes it possible to
+reuse existing Java2D code in a JavaFX application.
 
 
 #### ➔ [FxmlKit](https://github.com/dlsc-software-consulting-gmbh/FxmlKit)
@@ -509,6 +532,17 @@ A pure JavaFX API which allows you to add Google Maps to your JavaFX application
 underlying Google Maps JavaScript API.
 
 
+#### ➔ [HarmonicFX](https://github.com/kordamp/harmonicfx)
+
+A collection of [Friday Fun](https://harmoniccode.blogspot.com/search/label/fridayfun) JavaFX components authored by
+[@hansolo_](https://twitter.com/hansolo_).
+
+
+#### ➔ [JavaFXTableMapper](https://github.com/dustinkredmond/JavaFXTableMapper)
+
+Simply use ObjectTableView in place of JavaFX's TableView and all of the work is handled for you.
+
+
 #### ➔ [JFoeniX](https://github.com/sshahine/JFoenix)
 
 JFoenix is an open source Java library, that implements Google Material Design using Java components.
@@ -521,22 +555,24 @@ JFoenix is an open source Java library, that implements Google Material Design u
 JFreeChart-FX is an extension for JFreeChart that allows JFreeChart to be used in JavaFX applications.
 
 
-#### ➔ [JavaFXTableMapper](https://github.com/dustinkredmond/JavaFXTableMapper)
-
-Simply use ObjectTableView in place of JavaFX's TableView and all of the work is handled for you.
-
-
-#### ➔ [FXGraphics2D](https://github.com/jfree/fxgraphics2d)
-
-FXGraphics2D is an implementation of Java's Graphics2D API that targets the JavaFX Canvas. It makes it possible to
-reuse existing Java2D code in a JavaFX application.
-
-
 #### ➔ [JFXC](https://github.com/innFactory/JFXC)
 
 With Jonato JavaFX Controls you can extend your GUI with some new fresh controls.
 
 [JFXC Wiki](https://github.com/Jonato/JFXC/wiki)
+
+
+#### ➔ [JSilhouette](https://github.com/kordamp/jsilhouette)
+
+JSilhouette provides additional shapes for Java applications. Currently JavaFX is supported.
+
+[Additional shapes for JavaFX applications](https://kordamp.org/jsilhouette/)
+
+
+#### ➔ [JxBrowser](https://teamdev.com/jxbrowser/)
+
+Add Chromium web browser to your Java app. Display web pages and PDFs in JavaFX, Swing, SWT.
+Work with DOM, JS, Network, Printing, Downloads, etc.
 
 
 #### ➔ [JZY3D](http://www.jzy3d.org/)
@@ -549,6 +585,12 @@ and overlays. Axis and chart layout can be fully customized and enhanced.
 #### ➔ [KeyboardFX](https://github.com/dlsc-software-consulting-gmbh/KeyboardFX)
 
 An on-screen keyboard, especially useful for touch applications (mobile, tablet).
+
+
+#### ➔ [Language Manager](https://github.com/Snoopy137/language-manager)
+
+Language Manager is a JavaFX library that enables dynamic language switching at runtime, allowing you to update the
+application language without needing to refresh the scene.
 
 
 #### ➔ [MonacoFX](https://github.com/miho/MonacoFX)
@@ -582,6 +624,11 @@ source code itself. Please take a look at the file DemoApp.java to find out how 
 Preference dialogs for business applications made easy. Creating preference dialogs in Java has never been this easy!
 
 
+#### ➔ [Pty4J](https://github.com/JetBrains/pty4j)
+
+This is a Java implementation of PTY. Written in JNA with native code to make fork of a process.
+
+
 #### ➔ [ReactFX](https://github.com/TomasMikula/ReactFX)
 
 ReactFX is an exploration of (functional) reactive programming techniques for JavaFX. These techniques usually result
@@ -605,6 +652,13 @@ The `ScalableContentPane` scales its content to always fit the container bounds.
 Scenic View is a JavaFX application designed to make it simple to understand the current state of your application
 scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This l
 ets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
+
+
+#### ➔ [ShowcaseFX](https://github.com/dlsc-software-consulting-gmbh/ShowcaseFX)
+
+This project contains a single control called CssShowcaseView that can be used to preview the results produced by
+adding one or more stylesheets on top of the built-in modena stylesheet. This view can be run as part of a standalone
+CSS testing application or integrated into a customer application as a developer option.
 
 
 #### ➔ [Switcher](https://github.com/dustinkredmond/Switcher)
@@ -667,6 +721,11 @@ The framework can be used for programs that:
 - Support plugins, extensions, add-ons, etc., that can be dynamically loaded.
 - Include a web server and web applications, where each web application is a module.
 - Use modules that are loaded based on conditions, such as the operating system type, etc.
+
+
+#### ➔ [TerminalFX](https://github.com/javaterminal/TerminalFX)
+
+TerminalFX is a terminal (PTY) emulator component written in JavaFX 18.
 
 
 #### ➔ [TiwulFX-Dock](https://github.com/panemu/tiwulfx-dock)
