@@ -863,6 +863,12 @@ objects.
 A shell script to build fancy DMGs.
 
 
+#### ➔ [java-keyring](https://github.com/javakeyring/java-keyring)
+
+java-keyring is a small library which provides a simple java API to store passwords and secrets insecurely in native
+OS keystores.
+
+
 #### ➔ [node-appdmg](https://github.com/LinusU/node-appdmg)
 
 Generate beautiful DMG-images for your OS X applications.
