@@ -863,6 +863,11 @@ objects.
 A shell script to build fancy DMGs.
 
 
+#### ➔ [Credential Secure Storage for Java](https://github.com/microsoft/credential-secure-storage-for-java)
+
+Unified interface to store Java application secrets on different platforms backed by built-in credential managers.
+
+
 #### ➔ [java-keyring](https://github.com/javakeyring/java-keyring)
 
 java-keyring is a small library which provides a simple java API to store passwords and secrets insecurely in native
