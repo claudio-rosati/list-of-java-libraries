@@ -117,8 +117,7 @@ Dagger is a fully static, compile-time dependency injection framework for Java, 
 Gluon Ignite allows developers to use popular dependency injection frameworks in their JavaFX applications, including
 inside their FXML controllers.
 
-[Gluon Ignite](https://github.com/gluonhq/ignite)
-
+[Gluon Ignite](https://github.com/gluonhq/ignite),
 [Dependency Injection in JavaFX](https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html)
 
 
@@ -133,10 +132,8 @@ Put simply, Guice alleviates the need for factories and the use of "new" in your
 
 An opinionated view on how to do dependency injection and FXML view handling in JavaFX.
 
-[Spring Boot based FxWeaver Sample](https://github.com/rgielen/javafx-weaver/tree/master/samples/springboot-sample)
-
-[Creating a Spring Boot JavaFX Application with FxWeaver](https://rgielen.net/posts/2019/creating-a-spring-boot-javafx-application-with-fxweaver/)
-
+[Spring Boot based FxWeaver Sample](https://github.com/rgielen/javafx-weaver/tree/master/samples/springboot-sample),
+[Creating a Spring Boot JavaFX Application with FxWeaver](https://rgielen.net/posts/2019/creating-a-spring-boot-javafx-application-with-fxweaver/),
 [Introducing FxWeaver - Dependency Injection Support for JavaFX and FXML](https://rgielen.net/posts/2019/introducing-fxweaver-dependency-injection-support-for-javafx-and-fxml/)
 
 
@@ -772,10 +769,8 @@ Provides UI bindings for JavaFX.
 Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and
 software platforms. Skija is a high-quality Java bindings for Skia.
 
-[Getting Started](https://github.com/HumbleUI/Skija/blob/master/docs/Getting%20Started.md)
-
-[SkiaSharp documentation](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
-
+[Getting Started](https://github.com/HumbleUI/Skija/blob/master/docs/Getting%20Started.md),
+[SkiaSharp documentation](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/),
 [Skia Documentation](https://api.skia.org/)
 
 
@@ -835,6 +830,17 @@ Run any Java Desktop Application in a web browser.
 
 The standard Java libraries fail to provide enough methods for manipulation of its core classes. Apache Commons Lang
 provides these extra methods.
+
+
+#### ➔ [ArchUnit](https://www.archunit.org/)
+
+ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java
+unit test framework. That is, ArchUnit can check dependencies between packages and classes, layers and slices, check
+for cyclic dependencies and more. It does so by analyzing given Java bytecode, importing all classes into a Java code
+structure.
+
+[Examples](https://github.com/TNG/ArchUnit-Examples),
+[GitHub](https://github.com/TNG/ArchUnit)
 
 
 #### ➔ [Burningwave Core](https://github.com/burningwave/core)
@@ -1015,8 +1021,7 @@ Professional JavaFX Controls.
 Powerful high-level application framework for rapidly building applications that let you explore, analyze, and edit all
 kinds of geospatial data.
 
-[Lightspeed Views: Working with a JavaFX view](https://dev.luciad.com/portal/productDocumentation/LuciadFusion/docs/documentation.html?subcategory=fx_view)
-
+[Lightspeed Views: Working with a JavaFX view](https://dev.luciad.com/portal/productDocumentation/LuciadFusion/docs/documentation.html?subcategory=fx_view), 
 [Printing a JavaFX view](https://dev.luciad.com/portal/productDocumentation/LuciadFusion/docs/articles/tutorial/printing/printing_fx.html)
 
 
